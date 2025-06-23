@@ -5,7 +5,7 @@
 **Tidy Up: Organize your library** is a smart mobile app that solves the eternal struggle of organizing your personal library. No more books falling off shelves, no more wasted space, no more frustrated rearranging. Just perfectly organized bookshelves, every time.
 
 <p align="center">
-  <img src="Imgs/App Poster.pdf" width="400" height="565">
+  <img src="[App Poster.pdf](https://github.com/user-attachments/files/20867930/App.Poster.pdf)" width="400" height="565">
 </p>
 
 ## 🎯 The Problem
