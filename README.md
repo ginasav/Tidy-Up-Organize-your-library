@@ -54,6 +54,10 @@ Tidy Up uses your phone's camera and advanced measurement algorithms to:
 - Clear visual feedback and progress indicators
 - Accessibility-first design for all users: it can support **VoiceOver**
 
+<p align = center>
+<img src="/Imgs/Apple Product Page.jpg" width="1000" height="497">
+</p>
+
 ## 🎯 Target Audience
 
 ### Primary Users
@@ -120,16 +124,6 @@ Tidy Up uses your phone's camera and advanced measurement algorithms to:
 - **Hardware partnerships** - Smart shelf accessories
 - **Affiliate marketing** - Book purchase recommendations
 
-## 🎬 Demo & Visuals
-
-*[This is where you'd include screenshots, demo videos, user flow diagrams, and marketing materials like the poster we created]*
-
-### Marketing Materials
-- iMessage conversation poster showcasing the relatable "mom problem"
-- Before/after photos of organized libraries
-- User testimonial videos
-- Social media content templates
-
 ## 📝 Development Status
 
 **Current Phase**: Concept & Design
@@ -141,7 +135,8 @@ Tidy Up uses your phone's camera and advanced measurement algorithms to:
 - ✅ MVP development planning
 - ✅ Available on App Store!
 
-## ⬇️ Download now on App Store: [https://apps.apple.com/it/app/tidy-up-organize-your-library/id6747585292]
+## ⬇️ Download now on App Store: 
+[https://apps.apple.com/it/app/tidy-up-organize-your-library/id6747585292]
 
 ## 🤝 Get Involved
 
@@ -157,28 +152,7 @@ Interested in Tidy Up? Here's how you can help:
 - **Email**: [gina.saviano@ikmail.com]
 - **LinkedIn**: [www.linkedin.com/in/gina-saviano-715144162]
 - **Threads**: [@gin.asss]
-
----
-
-## 📄 License & Usage
-
-© 2025 [Gina Saviano]. All rights reserved.
-
-This repository showcases a mobile app concept for portfolio and demonstration purposes. The ideas, designs, concepts, and materials contained herein are proprietary intellectual property.
-
-**License**: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-
-You are free to:
-- **Share** — copy and redistribute the material for non-commercial purposes
-- **Attribution** — you must give appropriate credit
-
-You may **not**:
-- Use commercially without permission
-- Create derivatives or modifications
-- Implement this concept without authorization
-
-For commercial licensing, partnerships, or implementation rights, please contact me.
-
+  
 ---
 
 *Built with 📚 by someone who's tired of books falling off shelves*
